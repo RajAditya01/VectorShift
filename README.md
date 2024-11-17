@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+<h1 align ="center" >VectorShift Frontend Technical Assessment</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h5 align ="center"> 
+A comprehensive frontend and backend technical implementation showcasing modularity, styling, logic handling, and API integration – aiming to demonstrate development skills and problem-solving capabilities in a practical project setup. <br/> </h5>
+<br/>
 
-## Available Scripts
+  * [Key Features](#key-features)
+  * [Technologies Used](#technologies-used)
+  * [📸 Screenshots](#screenshots)
+  * [Author](#author)
+  * [License](#license)
 
-In the project directory, you can run:
+## Key Features
 
-### `npm start`
+- Node Abstraction: Create reusable and flexible node components for efficient development.
+- Styling: Applied consistent and appealing UI design across the application.
+- Dynamic Text Node Logic: Auto-resizing and variable-based handle generation in text nodes.
+- Backend Integration: Calculate pipeline details and validate graph structure using API.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+This project was created using the following technologies.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend**:
+  - [React](https://reactjs.org/) - JavaScript library for building user interfaces.
+  - [React Flow](https://reactflow.dev/) - Library for creating node-based editors.
+  - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for UI design.
+  - [React Router DOM](https://reactrouter.com/) - For routing and navigation.
+  - [Axios](https://axios-http.com/) - For API integration.
+- **Backend**:
+  - [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast Python web framework.
+  - [NetworkX](https://networkx.org/) - For graph-based calculations and validations.
 
-### `npm run build`
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📸 Screenshots 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/user-attachments/assets/298844f2-9f67-4be0-9a73-35bb7ab5a6f5)
+---- -
+![image](https://github.com/user-attachments/assets/04e8b919-b654-4caf-a847-63e69e1e3370)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Author
+- **Portfolio**: [Aditya Raj](https://github.com/RajAditya01)
+- **GitHub**: [Aditya Raj](https://github.com/RajAditya01)
+- **LinkedIn**: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-aa923721a/)
+- **Email**: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+MIT License
 
-## Learn More
+Copyright (c) 2024 Aditya Raj
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
