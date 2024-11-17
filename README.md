@@ -1,4 +1,4 @@
-<h1 align ="center" >VectorShift Frontend Technical Assessment</h1>
+<h1 align ="center" >VectorShift Full-Stack Technical Assessment</h1>
 
 <h5 align ="center"> 
 A comprehensive frontend and backend technical implementation showcasing modularity, styling, logic handling, and API integration – aiming to demonstrate development skills and problem-solving capabilities in a practical project setup. <br/> </h5>
